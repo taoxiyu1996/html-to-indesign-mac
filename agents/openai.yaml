@@ -1,0 +1,4 @@
+interface:
+  display_name: "HTML 转 InDesign · Mac"
+  short_description: "在 Mac 将固定分页 HTML 转为可编辑 INDD，并导出 PDF 校样"
+  default_prompt: "使用 $html-to-indesign-mac 将我的 HTML 转为可编辑 InDesign 文档并检查校样。"
